@@ -1,0 +1,3 @@
+   - name: ollama_chat/qwen3.5:9b
+     extra_params:
+       num_ctx: 16384
