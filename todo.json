@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Python proje geliştirme",
+      "priority": 3,
+      "due_date": "20/11/2026",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "task": "Dokumente silmek",
+      "priority": 2,
+      "due_date": "18/11/2026",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "task": "süt al",
+      "priority": 3,
+      "due_date": "20/12/2027",
+      "completed": false
+    }
+  ]
+}
