@@ -1,3 +1,7 @@
+# Bu program, kullanıcıların görevlerini (TODO) yönetmelerine olanak tanıyan bir TODO listesi uygulamasıdır.
+# Kullanıcılar yeni görev ekleyebilir, tüm görevleri listeleyebilir, görevleri tamamlayabilir veya silebilirler.
+# Görevler JSON formatında todo.json dosyasında saklanır.
+
 import json
 import os
 
