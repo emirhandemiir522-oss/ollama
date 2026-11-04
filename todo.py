@@ -28,7 +28,7 @@ def add_task():
     """Yeni görev ekle"""
     task = input("Görev adı girin: ")
     if not task.strip():
-        print("Görev boş olamaz!")
+        print("Görev adı boş olamaz!")
         return
     
     priority = input("Öncelik (1:Düşük, 2:Orta, 3:Yüksek) - Varsayılan: 2: ")
